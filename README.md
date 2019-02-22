@@ -35,3 +35,18 @@ de la herencia, un lenguaje multiplataformas, con un codigo liviano, donde puede
 ## ¿Que es  Framework?
 
 ![ExampleFrames](img/frameworks.jpg)
+
+Son un conjunto de librerias para  el proceso de desarrollo volver más liviano, Representa una arquitectura de software que modela las relaciones generales de las entidades del dominio. Provee una estructura y una metodología de trabajo la cual extiende o utiliza las aplicaciones del dominio.
+
+
+Son diseñados con la intención de facilitar el desarrollo de software, permitiendo a los diseñadores y programadores pasar más tiempo identificando requerimientos de software que tratando con los tediosos detalles de bajo nivel de proveer un sistema funcional. 
+
+
+##### ¿Qué ventajas tiene utilizar un ‘framework’?
+
+Las que se derivan de utilizar un estándar; entre otras:
+
+El programador no necesita plantearse una estructura global de la aplicación, sino que el framework le proporciona un esqueleto que hay que “rellenar”.
+Facilita la colaboración. Cualquiera que haya tenido que “pelearse” con el código fuente de otro programador (¡o incluso con el propio, pasado algún tiempo!) sabrá lo difícil que es entenderlo y modificarlo; por tanto, todo lo que sea definir y estandarizar va a ahorrar tiempo y trabajo a los desarrollos colaborativos.
+Es más fácil encontrar herramientas (utilidades, librerías) adaptadas al framework concreto para facilitar el desarrollo.
+
