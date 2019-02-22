@@ -1,6 +1,8 @@
 # fundamentos-programacion
 Fundamentos de Programación por Julian Nicholls Cardona
 
+![html-css-js](img/Html-css-jss.jpg)
+
 ## ¿Qué es HTML/CSS/JS?
 
 #### Html
